@@ -1,0 +1,42 @@
+body{
+	background-color: #FB9C30;
+}
+
+.imglog{
+	
+height: 400px;
+width: 400px;
+}
+
+.logo{
+
+	text-align: center;
+}
+header{
+
+	font-size: 100px;
+	color: red;
+	font-family: fantasy;
+}
+
+.contacto{
+
+	background-color: #CBF56A;
+	font-family: monospace;
+	font-size: 40px;
+	padding: 20px;
+	height: 60px;
+	width: 500px;
+	margin: 30px;
+	color: blue;
+
+
+}
+.wsp{
+	height: 70px;
+	width: 70px;
+}
+.linktienda{
+	font-size: 23px;
+	color: blue;
+}
